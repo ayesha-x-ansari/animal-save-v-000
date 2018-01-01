@@ -9,10 +9,9 @@ html {
 }
 
 @media only screen and (min-width: 406px) and (max-width: 1090px) {
-  #mokey {
+  #monkey {
     transform: rotate(.2turn);
     top: 100px;
   }
 }
 /* Write your solution here */
-
