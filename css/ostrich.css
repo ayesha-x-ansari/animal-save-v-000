@@ -8,7 +8,13 @@ html {
   right: 0;
 }
 
-@media only screen and (max-width: 1462px) {
+@media only screen and (max-width: 1300px) {
+  #ostrich{
+    top:-100px;
+  }
+}
+
+@media only screen and (max-width: 1000px) {
   #ostrich{
     top:-100px;
   }
